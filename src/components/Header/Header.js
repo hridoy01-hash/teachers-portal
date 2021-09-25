@@ -1,0 +1,13 @@
+import React from 'react';
+import './Header.css'
+const Header = () => {
+    return (
+        <div className="header">
+            <h1>Teachers Information Portal</h1>
+            <p>This information help you to choose your teacher for Advising Your Upcoming Semester</p>
+            <h2>Total Amount: $980 Million</h2>
+        </div>
+    );
+};
+
+export default Header;

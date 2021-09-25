@@ -1,0 +1,137 @@
+[
+    {
+      "name": "Arif Mahbub",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img1.jpg",
+      "Position": "Senior Lecturer",
+      "Department": "CSE",
+      "Degree": "Phd Holder",
+      "Salary": 1700,
+      "UniversityId": 121
+    },
+    {
+      "name": "Sagor Ahmed",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img2.jpg",
+      "Position": "Lecturer",
+      "Department": "EEE",
+      "Degree": "Bsc",
+      "Salary": 12000,
+      "UniversityId": 131
+    },
+    {
+      "name": "Anjir Ahmed",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img3.jpg",
+      "Position": "Intern Lecturer",
+      "Department": "Textile",
+      "Degree": "Bsc",
+      "Salary": 10000,
+      "UniversityId": 221
+    },
+    {
+      "name": "Rofikul Islam",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img4.jpg",
+      "Position": "Senior Lecturer",
+      "Department": "Accounting",
+      "Degree": "BBA",
+      "Salary": 45000,
+      "UniversityId": 371
+    },
+    {
+      "name": "Delowar Rahman",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img5.jpg",
+      "Position": "Assistant Lecturer",
+      "Department": "MicroBiology",
+      "Degree": "B.Pherm",
+      "Salary": 1900,
+      "UniversityId": 465
+    },
+    {
+      "name": "Tuhinul Islam",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img6.jpg",
+      "Position": "Lecturer",
+      "Department": "Pharmachy",
+      "Degree": "M.Pherm",
+      "Salary": 1200,
+      "UniversityId": 501
+    },
+    {
+      "name": "Ashfakur Rahman",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img7.jpg",
+      "Position": "Intern Lecturer",
+      "Department": "English",
+      "Degree": "MA",
+      "Salary": 25000,
+      "UniversityId": 602
+    },
+    {
+      "name": "Abdul Alom",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img8.jpg",
+      "Position": "Head Of Department",
+      "Department": "CSE",
+      "Degree": "Phd Holder",
+      "Salary": 170000,
+      "UniversityId": 732
+    },
+    {
+      "name": "Rokibul Hasan",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img9.jpg",
+      "Position": "Lab-Cordinator",
+      "Department": "CSE",
+      "Degree": "MSC",
+      "Salary": 40000,
+      "UniversityId": 885
+    },
+    {
+      "name": "Kabir khan",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img10.jpg",
+      "Position": "Senior Lecturer",
+      "Department": "CSE",
+      "Degree": "BSC",
+      "Salary": 36000,
+      "UniversityId": 999
+    },
+    {
+      "name": "Ebon Ahmed",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img11.jpg",
+      "Position": "Junior Lecturer",
+      "Department": "Food And Health",
+      "Degree": "MSC",
+      "Salary": 85000,
+      "UniversityId": 107
+    },
+    {
+      "name": "Rakib Mahbub",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img12.jpg",
+      "Position": "Guest Teacher",
+      "Department": "Math",
+      "Degree": "MA",
+      "Salary": 80000,
+      "UniversityId": 111
+    },
+    {
+      "name": "Abdul Ahad",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img13.jpg",
+      "Position": "Assistant Head",
+      "Department": "EEE",
+      "Degree": "Phd Holder",
+      "Salary": 78000,
+      "UniversityId": 129
+    },
+    {
+      "name": "Ahsan Islam",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img14.jpg",
+      "Position": "Senior Lecturer",
+      "Department": "Finace",
+      "Degree": "MBA",
+      "Salary": 45000,
+      "UniversityId": 136
+    },
+    {
+      "name": "Hridoy Ahmed",
+      "img": "https://elastic-fermi-9f80c8.netlify.app/images/img15.jpg",
+      "Position": "Lecturer",
+      "Department": "EEE",
+      "Degree": "BSC",
+      "Salary": 12000,
+      "UniversityId": 149
+    }
+  ]
