@@ -23,8 +23,8 @@ const TeachersInfo = () => {
             <div className="row row-cols-1 row-cols-md-3 g-4">
              {
                informations.map(information => <TeacherInfo 
+                key={information.key}
                 information={information} 
-                key={information.UniversityId}
                 handleTeachersDetails={handleTeachersDetails}>
                     
                 </TeacherInfo>)

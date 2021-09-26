@@ -1,137 +1,152 @@
 [
     {
       "name": "Arif Mahbub",
+      "key": 1,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img1.jpg",
       "Position": "Senior Lecturer",
       "Department": "CSE",
       "Degree": "Phd Holder",
-      "Salary": 1700,
-      "UniversityId": "121B"
+      "Salary": 1700
+      
     },
     {
       "name": "Sagor Ahmed",
+      "key": 2,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img2.jpg",
       "Position": "Lecturer",
       "Department": "EEE",
       "Degree": "Bsc",
-      "Salary": 1200,
-      "UniversityId": "131D"
+      "Salary": 1200
+      
     },
     {
       "name": "Anjir Ahmed",
+      "key": 3,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img3.jpg",
       "Position": "Intern Lecturer",
       "Department": "Textile",
       "Degree": "Bsc",
-      "Salary": 1000,
-      "UniversityId": "221A"
+      "Salary": 1000
+      
     },
     {
       "name": "Rofikul Islam",
+      "key": 4,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img4.jpg",
       "Position": "Senior Lecturer",
       "Department": "Accounting",
       "Degree": "BBA",
-      "Salary": 4500,
-      "UniversityId": "371V"
+      "Salary": 4500
+      
     },
     {
       "name": "Delowar Rahman",
+      "key": 5,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img5.jpg",
       "Position": "Assistant Lecturer",
       "Department": "MicroBiology",
       "Degree": "B.Pherm",
-      "Salary": 1900,
-      "UniversityId": "465P"
+      "Salary": 1900
+      
     },
     {
       "name": "Tuhinul Islam",
+      "key": 6,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img6.jpg",
       "Position": "Lecturer",
       "Department": "Pharmachy",
       "Degree": "M.Pherm",
-      "Salary": 1200,
-      "UniversityId": "501M"
+      "Salary": 1200
+      
     },
     {
       "name": "Ashfakur Rahman",
+      "key": 7,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img7.jpg",
       "Position": "Intern Lecturer",
       "Department": "English",
       "Degree": "MA",
-      "Salary": 2500,
-      "UniversityId": "602X"
+      "Salary": 2500
+      
     },
     {
       "name": "Abdul Alom",
+      "key": 8,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img8.jpg",
       "Position": "Head Of Department",
       "Department": "CSE",
       "Degree": "Phd Holder",
-      "Salary": 1700,
-      "UniversityId": "732W"
+      "Salary": 1700
+      
     },
     {
       "name": "Rokibul Hasan",
+      "key": 9,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img9.jpg",
       "Position": "Lab-Cordinator",
       "Department": "CSE",
       "Degree": "MSC",
-      "Salary": 4000,
-      "UniversityId": "885U"
+      "Salary": 4000
+      
     },
     {
       "name": "Kabir khan",
+      "key": 10,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img10.jpg",
       "Position": "Senior Lecturer",
       "Department": "CSE",
       "Degree": "BSC",
-      "Salary": 3600,
-      "UniversityId": "999R"
+      "Salary": 3600
+      
     },
     {
       "name": "Ebon Ahmed",
+      "key": 11,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img11.jpg",
       "Position": "Junior Lecturer",
       "Department": "Food And Health",
       "Degree": "MSC",
-      "Salary": 8500,
-      "UniversityId": "107Y"
+      "Salary": 8500
+      
     },
     {
       "name": "Rakib Mahbub",
+      "key": 12,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img12.jpg",
       "Position": "Guest Teacher",
       "Department": "Math",
       "Degree": "MA",
-      "Salary": 8000,
-      "UniversityId": "111F"
+      "Salary": 8000
+      
     },
     {
       "name": "Abdul Ahad",
+      "key": 13,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img13.jpg",
       "Position": "Assistant Head",
       "Department": "EEE",
       "Degree": "Phd Holder",
-      "Salary": 7800,
-      "UniversityId": "129L"
+      "Salary": 7800
+      
     },
     {
       "name": "Ahsan Islam",
+      "key": 14,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img14.jpg",
       "Position": "Senior Lecturer",
       "Department": "Finace",
       "Degree": "MBA",
-      "Salary": 4500,
-      "UniversityId": "136K"
+      "Salary": 4500
+      
     },
     {
       "name": "Hridoy Ahmed",
+      "key": 15,
       "img": "https://elastic-fermi-9f80c8.netlify.app/images/img15.jpg",
       "Position": "Lecturer",
       "Department": "EEE",
       "Degree": "BSC",
-      "Salary": 1200,
-      "UniversityId": "149H"
+      "Salary": 1200
+      
     }
   ]
