@@ -1,10 +1,10 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import {faCheckCircle} from '@fortawesome/free-solid-svg-icons'
 import './TeacherInfo.css'
 const TeacherInfo = (props) => {
-    console.log(props.information);
     const{name,Position,Degree,Department,Salary,img} = props.information;
+    const element = <FontAwesomeIcon icon={faCheckCircle} />
     return (
         <div>
             <div className="col">
@@ -16,10 +16,8 @@ const TeacherInfo = (props) => {
         <p className="card-text">Department: {Department}</p>
         <p className="card-text">Eduction: {Degree}</p>
         <p className="card-text">Tution Fee: ${Salary}</p>
-       
-        
-        <button type="button" className="btn btn-outline-primary" 
-        onClick={()=>props.handleTeachersDetails(props.information)}>Choose Teacher</button>
+        <button type="button" className="btn btn-primary" 
+        onClick={()=>props.handleTeachersDetails(props.information)}>{element} Select Your Teacher</button>
       </div>
     </div>
   </div>

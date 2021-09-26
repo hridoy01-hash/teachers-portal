@@ -6,7 +6,7 @@
       "Department": "CSE",
       "Degree": "Phd Holder",
       "Salary": 1700,
-      "UniversityId": 121
+      "UniversityId": "121B"
     },
     {
       "name": "Sagor Ahmed",
@@ -15,7 +15,7 @@
       "Department": "EEE",
       "Degree": "Bsc",
       "Salary": 12000,
-      "UniversityId": 131
+      "UniversityId": "131D"
     },
     {
       "name": "Anjir Ahmed",
@@ -24,7 +24,7 @@
       "Department": "Textile",
       "Degree": "Bsc",
       "Salary": 10000,
-      "UniversityId": 221
+      "UniversityId": "221A"
     },
     {
       "name": "Rofikul Islam",
@@ -33,7 +33,7 @@
       "Department": "Accounting",
       "Degree": "BBA",
       "Salary": 45000,
-      "UniversityId": 371
+      "UniversityId": "371V"
     },
     {
       "name": "Delowar Rahman",
@@ -42,7 +42,7 @@
       "Department": "MicroBiology",
       "Degree": "B.Pherm",
       "Salary": 1900,
-      "UniversityId": 465
+      "UniversityId": "465P"
     },
     {
       "name": "Tuhinul Islam",
@@ -51,7 +51,7 @@
       "Department": "Pharmachy",
       "Degree": "M.Pherm",
       "Salary": 1200,
-      "UniversityId": 501
+      "UniversityId": "501M"
     },
     {
       "name": "Ashfakur Rahman",
@@ -60,7 +60,7 @@
       "Department": "English",
       "Degree": "MA",
       "Salary": 25000,
-      "UniversityId": 602
+      "UniversityId": "602X"
     },
     {
       "name": "Abdul Alom",
@@ -69,7 +69,7 @@
       "Department": "CSE",
       "Degree": "Phd Holder",
       "Salary": 170000,
-      "UniversityId": 732
+      "UniversityId": "732W"
     },
     {
       "name": "Rokibul Hasan",
@@ -78,7 +78,7 @@
       "Department": "CSE",
       "Degree": "MSC",
       "Salary": 40000,
-      "UniversityId": 885
+      "UniversityId": "885U"
     },
     {
       "name": "Kabir khan",
@@ -87,7 +87,7 @@
       "Department": "CSE",
       "Degree": "BSC",
       "Salary": 36000,
-      "UniversityId": 999
+      "UniversityId": "999R"
     },
     {
       "name": "Ebon Ahmed",
@@ -96,7 +96,7 @@
       "Department": "Food And Health",
       "Degree": "MSC",
       "Salary": 85000,
-      "UniversityId": 107
+      "UniversityId": "107Y"
     },
     {
       "name": "Rakib Mahbub",
@@ -105,7 +105,7 @@
       "Department": "Math",
       "Degree": "MA",
       "Salary": 80000,
-      "UniversityId": 111
+      "UniversityId": "111F"
     },
     {
       "name": "Abdul Ahad",
@@ -114,7 +114,7 @@
       "Department": "EEE",
       "Degree": "Phd Holder",
       "Salary": 78000,
-      "UniversityId": 129
+      "UniversityId": "129L"
     },
     {
       "name": "Ahsan Islam",
@@ -123,7 +123,7 @@
       "Department": "Finace",
       "Degree": "MBA",
       "Salary": 45000,
-      "UniversityId": 136
+      "UniversityId": "136K"
     },
     {
       "name": "Hridoy Ahmed",
@@ -132,6 +132,6 @@
       "Department": "EEE",
       "Degree": "BSC",
       "Salary": 12000,
-      "UniversityId": 149
+      "UniversityId": "149H"
     }
   ]

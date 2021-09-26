@@ -1,7 +1,14 @@
 .header{
     text-align: center;
-    margin-top: 5px;
+    background-color: darkcyan;
+    padding-bottom: 15px;
 }
 .header h2{
-    color: rgb(69, 33, 199);
+    color: rgb(230, 228, 240);
+}
+.header h1{
+    color: gainsboro;
+}
+.header p{
+    color: gold;
 }
