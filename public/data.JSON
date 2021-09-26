@@ -14,7 +14,7 @@
       "Position": "Lecturer",
       "Department": "EEE",
       "Degree": "Bsc",
-      "Salary": 12000,
+      "Salary": 1200,
       "UniversityId": "131D"
     },
     {
@@ -23,7 +23,7 @@
       "Position": "Intern Lecturer",
       "Department": "Textile",
       "Degree": "Bsc",
-      "Salary": 10000,
+      "Salary": 1000,
       "UniversityId": "221A"
     },
     {
@@ -32,7 +32,7 @@
       "Position": "Senior Lecturer",
       "Department": "Accounting",
       "Degree": "BBA",
-      "Salary": 45000,
+      "Salary": 4500,
       "UniversityId": "371V"
     },
     {
@@ -59,7 +59,7 @@
       "Position": "Intern Lecturer",
       "Department": "English",
       "Degree": "MA",
-      "Salary": 25000,
+      "Salary": 2500,
       "UniversityId": "602X"
     },
     {
@@ -68,7 +68,7 @@
       "Position": "Head Of Department",
       "Department": "CSE",
       "Degree": "Phd Holder",
-      "Salary": 170000,
+      "Salary": 1700,
       "UniversityId": "732W"
     },
     {
@@ -77,7 +77,7 @@
       "Position": "Lab-Cordinator",
       "Department": "CSE",
       "Degree": "MSC",
-      "Salary": 40000,
+      "Salary": 4000,
       "UniversityId": "885U"
     },
     {
@@ -86,7 +86,7 @@
       "Position": "Senior Lecturer",
       "Department": "CSE",
       "Degree": "BSC",
-      "Salary": 36000,
+      "Salary": 3600,
       "UniversityId": "999R"
     },
     {
@@ -95,7 +95,7 @@
       "Position": "Junior Lecturer",
       "Department": "Food And Health",
       "Degree": "MSC",
-      "Salary": 85000,
+      "Salary": 8500,
       "UniversityId": "107Y"
     },
     {
@@ -104,7 +104,7 @@
       "Position": "Guest Teacher",
       "Department": "Math",
       "Degree": "MA",
-      "Salary": 80000,
+      "Salary": 8000,
       "UniversityId": "111F"
     },
     {
@@ -113,7 +113,7 @@
       "Position": "Assistant Head",
       "Department": "EEE",
       "Degree": "Phd Holder",
-      "Salary": 78000,
+      "Salary": 7800,
       "UniversityId": "129L"
     },
     {
@@ -122,7 +122,7 @@
       "Position": "Senior Lecturer",
       "Department": "Finace",
       "Degree": "MBA",
-      "Salary": 45000,
+      "Salary": 4500,
       "UniversityId": "136K"
     },
     {
@@ -131,7 +131,7 @@
       "Position": "Lecturer",
       "Department": "EEE",
       "Degree": "BSC",
-      "Salary": 12000,
+      "Salary": 1200,
       "UniversityId": "149H"
     }
   ]

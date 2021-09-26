@@ -1,8 +1,9 @@
+/* teacher details style */
 .details-cart{
-    position: fixed;
-    background-color: burlywood;
+    position: absolute;
     margin: 25px;
     padding: 50px;
+    background-color: burlywood;
     border: 1px solid goldenrod;
     border-radius: 10px;
     font-size: 15px;

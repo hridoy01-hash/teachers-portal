@@ -3,9 +3,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faCheckCircle} from '@fortawesome/free-solid-svg-icons'
 import './TeacherInfo.css'
 const TeacherInfo = (props) => {
+  //get ta property by disstructuring
     const{name,Position,Degree,Department,Salary,img} = props.information;
+    //use fontawsome icon
     const element = <FontAwesomeIcon icon={faCheckCircle} />
     return (
+      //display teacher information
         <div>
             <div className="col">
     <div className="card h-100">

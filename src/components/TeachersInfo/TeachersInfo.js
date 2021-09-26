@@ -32,6 +32,7 @@ const TeachersInfo = () => {
            
             </div>
           </div>
+          
           <div className="col-md-2">
             <TeacherDetails details={details}></TeacherDetails>
           </div>
